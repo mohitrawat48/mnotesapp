@@ -8,6 +8,6 @@ public class DefaultController {
 
     @GetMapping("/")
     public String defaultRoute(){
-        return "M-Notes testing 123 ";
+        return "M-Notes testing";
     }
 }
